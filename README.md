@@ -1,7 +1,7 @@
 # learning-for-undergraduates
 面向本科生的 GitHub 学习资源导航站
 
-GitHub 上拥有海量优质的开源学习资料，但我不知道它们在哪里。learning-for-undergraduates正是为了解决这个痛点而生——它是一个专门为本科生打造的 GitHub 学习资源聚合站。
+网络上拥有海量优质的开源学习资料，但我不知道它们在哪里。learning-for-undergraduates正是为了解决这个痛点而生——它是一个专门为本科生打造的 GitHub 学习资源聚合站。
 
 本站旨在先零散性地收集、整理和推荐 GitHub 上适合大学生学习的项目。以后有机会我再系统性的梳理
 
