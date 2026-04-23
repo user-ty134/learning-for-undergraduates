@@ -31,14 +31,15 @@
    > ⚠️ **可能就得麻烦读者自己想想办法了**（你懂的）。
 3. 觉得好用？欢迎通过 Issue 或 PR 分享你发现的“好东西”。
 
-> 完整资源列表请查看仓库中的resource
-
+> 完整资源列表请查看仓库中的 [`resources.md`](./resources.md) 或浏览 [Issues 中的推荐标签](https://github.com/yourusername/learning-for-undergraduates/labels/resource)。
 
 ## 🤝 如何贡献
 
-直接改resource即可
-
 虽然我精力有限，但非常欢迎大家一起让这个导航站变得更好。
+
+- **提 Issue**：给出资源链接 + 简要推荐理由（适合哪个专业/课程/水平）。
+- **提 PR**：直接编辑 `resources.md`，增加条目（参考现有格式）。
+- **打广告 or 无关内容**：我会直接拒绝，且可能被标记为垃圾。
 
 > 由于维护时间不定，PR 合并可能会比较慢，请见谅 🙏
 
